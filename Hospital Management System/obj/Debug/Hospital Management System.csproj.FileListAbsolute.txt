@@ -1,0 +1,96 @@
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.doctorreg.resources
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Menu.resources
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Bunifu.Core.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CopyComplete
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.doctors.resources
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.appointments.resources
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.add.resources
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.bill.resources
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.patients.resources
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.appointments_make.resources
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.patientreg.resources
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Dapper.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Dapper.xml
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\FlashControlV71.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\stdole.dll
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.print_form.resources
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.bill_generate.resources
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.admin.resources
+C:\Users\ShaMi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojAssemblyReference.cache
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\bin\Debug\Dapper.dll
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\bin\Debug\Bunifu.Core.dll
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\bin\Debug\Dapper.xml
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.add.resources
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.admin.resources
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.appointments.resources
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.appointments_make.resources
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.bill.resources
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.bill_generate.resources
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.doctorreg.resources
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.doctors.resources
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Menu.resources
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.patientreg.resources
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.patients.resources
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CopyComplete
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+F:\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojAssemblyReference.cache
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\bin\Debug\Dapper.dll
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\bin\Debug\Bunifu.Core.dll
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\bin\Debug\Dapper.xml
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojAssemblyReference.cache
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.add.resources
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.admin.resources
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.appointments.resources
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.appointments_make.resources
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.bill.resources
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.bill_generate.resources
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.doctorreg.resources
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.doctors.resources
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Menu.resources
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.patientreg.resources
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.patients.resources
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CopyComplete
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+F:\Projects\PakEverZone\004 Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.appointment_reg.resources
